@@ -1,0 +1,2 @@
+# Simples_Bot_Cripto
+Teste_Bot_de _analise_Cripto
