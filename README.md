@@ -39,7 +39,7 @@ sudo apt install python3 python3-pip
 Substitua <URL_DO_REPOSITORIO> pela URL do seu repositório GitHub.
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://raw.githubusercontent.com/JeanRocha91x/Simples_Bot_Cripto/main/bot.py
 ```
 ```bash
 cd <NOME_DO_REPOSITORIO>
